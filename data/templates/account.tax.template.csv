@@ -1,0 +1,7 @@
+id,name,amount,type_tax_use,chart_template_id,tax_group_id
+iva_10_sale,IVA 10% Venta,10,sale,py_chart,iva_10
+iva_10_purchase,IVA 10% Compra,10,purchase,py_chart,iva_10
+iva_5_sale,IVA 5% Venta,5,sale,py_chart,iva_5
+iva_5_purchase,IVA 5% Compra,5,purchase,py_chart,iva_5
+exento_sale,Exento Venta,0,sale,py_chart,exento
+exento_purchase,Exento Compra,0,purchase,py_chart,exento

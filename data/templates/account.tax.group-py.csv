@@ -1,0 +1,4 @@
+id,name,sequence,chart_template_id
+iva_10,IVA 10%,10,py_chart
+iva_5,IVA 5%,20,py_chart
+exento,Exento,30,py_chart

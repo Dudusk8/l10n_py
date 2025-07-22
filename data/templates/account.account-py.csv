@@ -1,0 +1,5 @@
+id,code,name,user_type_id,chart_template_id
+a400,400,Accounts Receivable,account_type_receivable,py_chart
+a440,440,Accounts Payable,account_type_payable,py_chart
+a600,600,Expenses,account_type_expenses,py_chart
+a700,700,Income,account_type_income,py_chart
