@@ -1,7 +1,7 @@
 # l10n_py2
 
 ⚠️ **This module is currently under active development and is not yet ready for production use.**
-Features are being implemented incrementally, and many key components are still missing or incomplete.
+Features are being implemented incrementally, and many key components are still missing or still not upload in this repo.
 
 ---
 
